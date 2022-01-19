@@ -1,0 +1,4 @@
+<map id="UI.MainMenu.UpdateLevelPreview" name="UI.MainMenu.UpdateLevelPreview">
+<area shape="rect" id="node1" title="Update the level preview according to the selected Level." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_main_menu.html#aa3edc69981c19a68572c0c8323f02c7c" title="Update the selected bar according to the selected Level." alt="" coords="269,5,484,32"/>
+</map>

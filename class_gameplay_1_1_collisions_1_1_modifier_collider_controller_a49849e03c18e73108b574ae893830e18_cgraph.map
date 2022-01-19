@@ -1,0 +1,8 @@
+<map id="Gameplay.Collisions.ModifierColliderController.OnTriggerEnter2D" name="Gameplay.Collisions.ModifierColliderController.OnTriggerEnter2D">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,232,177"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html#aec66c6e078e9898972a13e4be2513006" title="Action when the collided modifier is of type ModifierType.Magnet." alt="" coords="288,5,527,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html#ac12f18d0cedc1f16ac34ea8903c7ade3" title="Action when the collided modifier is of type ModifierType.Mirror." alt="" coords="293,71,521,112"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html#a596f6a2a1f4e07c04a568a8ae1a6bb05" title="Action when the collided modifier is of type ModifierType.Shield." alt="" coords="292,136,523,177"/>
+<area shape="rect" id="node5" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html#ab8d49f43e50e82a56f827f3d971dfe8b" title="Action when the collided modifier is of type ModifierType.SpeedBuff." alt="" coords="280,201,535,243"/>
+<area shape="rect" id="node6" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html#abbb12452ea2a8a1b32c3683870e1eb7d" title="Action when the collided modifier is of type ModifierType.SpeedDebuff." alt="" coords="300,267,515,323"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="UI.MainMenu.OnEnable" name="UI.MainMenu.OnEnable">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,164,184"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_main_menu.html#a24979c94634d2ec6c0e96a614cb97116" title="Exit the game." alt="" coords="235,5,395,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_main_menu.html#a2e6f2bc3e62de3fb1211439dc126132b" title=" " alt="" coords="235,56,395,83"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_main_menu.html#a9b20635bc387077e72c198ad95346989" title="Select next available level." alt="" coords="218,107,413,133"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_main_menu.html#a50f7b825e00d9deb58342c47dbe45bcc" title="Update the level preview according to the selected Level." alt="" coords="467,157,683,184"/>
+<area shape="rect" id="node7" href="$class_u_i_1_1_main_menu.html#a9f761bb577ecbb3b7fd51b4f5260b5c5" title="Select previous available level." alt="" coords="221,209,409,250"/>
+<area shape="rect" id="node8" href="$class_u_i_1_1_main_menu.html#a5a8ad3f3e1826abba43332875824d4e7" title="Run the selected level." alt="" coords="225,274,406,315"/>
+<area shape="rect" id="node9" href="$class_u_i_1_1_main_menu.html#a8d2f06ecccfeeea33645d1420c2f402e" title="Toggle the about panel." alt="" coords="212,340,419,367"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_main_menu.html#aa3edc69981c19a68572c0c8323f02c7c" title="Update the selected bar according to the selected Level." alt="" coords="731,157,945,184"/>
+</map>

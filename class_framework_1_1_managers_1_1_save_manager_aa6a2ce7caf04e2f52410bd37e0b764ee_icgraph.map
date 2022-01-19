@@ -1,0 +1,11 @@
+<map id="Framework.Managers.SaveManager.SaveGameDatas" name="Framework.Managers.SaveManager.SaveGameDatas">
+<area shape="rect" id="node1" title="Save game datas to file system." alt="" coords="568,104,801,145"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_save_manager.html#ab9c71d235784f77fb8b8441f16dc414b" title="Load saved game datas from file system." alt="" coords="287,5,520,47"/>
+<area shape="rect" id="node4" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" title=" " alt="" coords="315,71,491,112"/>
+<area shape="rect" id="node5" href="$class_framework_1_1_managers_1_1_level_manager.html#a0ea21d20f54b7822c040c81b97fe6254" title=" " alt="" coords="313,136,493,177"/>
+<area shape="rect" id="node6" href="$class_framework_1_1_managers_1_1_level_manager.html#a5f4b6de0cbfad1592b3612c75bd23179" title="Update and save the data to the persistant data file." alt="" coords="313,201,493,243"/>
+<area shape="rect" id="node3" href="$class_framework_1_1_managers_1_1_save_manager.html#aa68adf9ecf1f3ce5801c4090a2276714" title=" " alt="" coords="5,5,239,47"/>
+<area shape="rect" id="node7" href="$class_gameplay_1_1_levels_1_1_level.html#afdfd79658a96904e4ac51969e1cd8e2f" title="Action triggered when the player die." alt="" coords="25,150,219,177"/>
+<area shape="rect" id="node8" href="$class_gameplay_1_1_levels_1_1_level.html#a0ea08bce8eb30e31ade55ea694f6dc69" title="Action triggered when the player reaches the end of the level." alt="" coords="35,201,209,243"/>
+<area shape="rect" id="node9" href="$class_gameplay_1_1_levels_1_1_level.html#a1beeeb3389e74a65f987b8fbe920adaa" title=" " alt="" coords="29,267,215,294"/>
+</map>

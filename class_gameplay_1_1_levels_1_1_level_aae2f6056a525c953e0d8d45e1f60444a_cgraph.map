@@ -1,0 +1,4 @@
+<map id="Gameplay.Levels.Level.OnHitCoin" name="Gameplay.Levels.Level.OnHitCoin">
+<area shape="rect" id="node1" title="Action triggered when a coin is collected." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#a24d473e1589e1ea464c59f7502a90919" title="Update the coins HUD content." alt="" coords="228,5,427,47"/>
+</map>

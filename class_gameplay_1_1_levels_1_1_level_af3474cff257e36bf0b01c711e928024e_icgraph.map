@@ -1,0 +1,4 @@
+<map id="Gameplay.Levels.Level.OnFinishCoroutine" name="Gameplay.Levels.Level.OnFinishCoroutine">
+<area shape="rect" id="node1" title="Async wait some times before calling the next step of the finished level action" alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#a0ea08bce8eb30e31ade55ea694f6dc69" title="Action triggered when the player reaches the end of the level." alt="" coords="5,5,180,47"/>
+</map>

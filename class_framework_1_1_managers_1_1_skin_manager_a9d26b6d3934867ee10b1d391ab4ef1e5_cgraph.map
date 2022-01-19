@@ -1,0 +1,5 @@
+<map id="Framework.Managers.SkinManager.LoadSkin" name="Framework.Managers.SkinManager.LoadSkin">
+<area shape="rect" id="node1" title="Load the resources (sprites and animations) for the skin." alt="" coords="5,39,236,80"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_skin_manager.html#a2eb2d9b47f51c1f46b4c8f1f393169ec" title="Load the animations for the skin." alt="" coords="284,5,515,47"/>
+<area shape="rect" id="node3" href="$class_framework_1_1_managers_1_1_skin_manager.html#ae1510330bbfae75e72a7cb9d0303d660" title="Load the sprites for the skin. The sprites should be in a single image, which one is splited into ass..." alt="" coords="284,71,515,112"/>
+</map>

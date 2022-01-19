@@ -1,0 +1,6 @@
+<map id="Framework.UI.SkinInShop.OnButtonPressed" name="Framework.UI.SkinInShop.OnButtonPressed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,181,112"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a10feb3946113596cc19c943a5282a4ce" title=" " alt="" coords="258,5,434,47"/>
+<area shape="rect" id="node3" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#ac8044b7d051c400cd20c6235feb75170" title=" " alt="" coords="258,71,434,112"/>
+<area shape="rect" id="node4" href="$class_framework_1_1_managers_1_1_save_manager.html#aa6a2ce7caf04e2f52410bd37e0b764ee" title="Save game datas to file system." alt="" coords="229,136,463,177"/>
+</map>

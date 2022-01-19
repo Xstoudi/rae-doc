@@ -1,0 +1,5 @@
+<map id="UI.MainMenu.SelectNextLevel" name="UI.MainMenu.SelectNextLevel">
+<area shape="rect" id="node1" title="Select next available level." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_main_menu.html#a50f7b825e00d9deb58342c47dbe45bcc" title="Update the level preview according to the selected Level." alt="" coords="248,5,464,32"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_main_menu.html#aa3edc69981c19a68572c0c8323f02c7c" title="Update the selected bar according to the selected Level." alt="" coords="512,5,727,32"/>
+</map>

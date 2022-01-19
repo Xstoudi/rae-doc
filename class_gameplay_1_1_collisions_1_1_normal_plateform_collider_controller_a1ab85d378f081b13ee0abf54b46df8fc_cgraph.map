@@ -1,0 +1,4 @@
+<map id="Gameplay.Collisions.NormalPlateformColliderController.FixedUpdate" name="Gameplay.Collisions.NormalPlateformColliderController.FixedUpdate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,216,61"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_base_collider_controller.html#ab33fa008e2131253a5a6e34bf52b18ac" title="Get the tile at the position of the coord &#160;(+ the offset )." alt="" coords="264,13,475,54"/>
+</map>

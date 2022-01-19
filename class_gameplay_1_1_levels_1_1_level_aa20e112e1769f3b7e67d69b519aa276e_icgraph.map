@@ -1,0 +1,4 @@
+<map id="Gameplay.Levels.Level.Init" name="Gameplay.Levels.Level.Init">
+<area shape="rect" id="node1" title="Initialize the objects of the level + update HUD." alt="" coords="240,5,415,32"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#a1beeeb3389e74a65f987b8fbe920adaa" title=" " alt="" coords="5,5,192,32"/>
+</map>

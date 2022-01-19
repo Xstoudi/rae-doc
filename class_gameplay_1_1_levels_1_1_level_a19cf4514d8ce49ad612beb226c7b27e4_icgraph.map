@@ -1,0 +1,6 @@
+<map id="Gameplay.Levels.Level.UpdateHudProgression" name="Gameplay.Levels.Level.UpdateHudProgression">
+<area shape="rect" id="node1" title="Update the progression HUD content." alt="" coords="479,35,677,76"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#aa4750ab2e95dfe67b97bd6701ff1c44e" title=" " alt="" coords="240,5,431,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_levels_1_1_level.html#aa20e112e1769f3b7e67d69b519aa276e" title="Initialize the objects of the level + update HUD." alt="" coords="248,71,423,98"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_levels_1_1_level.html#a1beeeb3389e74a65f987b8fbe920adaa" title=" " alt="" coords="5,71,192,98"/>
+</map>

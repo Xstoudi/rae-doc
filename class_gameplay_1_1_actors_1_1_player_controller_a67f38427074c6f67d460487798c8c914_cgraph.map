@@ -1,0 +1,7 @@
+<map id="Gameplay.Actors.PlayerController.RunUpdate" name="Gameplay.Actors.PlayerController.RunUpdate">
+<area shape="rect" id="node1" title="Function called every frame as long as the player should move" alt="" coords="5,71,228,112"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a5ac8f6cfda1a9064b6bf87c47a84423d" title="Gets a value that is multiplied to the speed, ex: 2.0 means that the player sould go two times as fas..." alt="" coords="281,5,504,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a50d1ab7694d73b9da08045fe23365346" title="Returns true if the player is on the ground" alt="" coords="276,71,509,112"/>
+<area shape="rect" id="node5" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a59c054f72769ee094735f99215c8a50b" title="Toggle the value of nextWalkClip between ClipOnWalk1 and ClipOnWalk2" alt="" coords="281,136,504,177"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a260e5621b6544ef69a9c2830941d28a0" title="Return true if the player currently has a shield" alt="" coords="557,71,780,112"/>
+</map>

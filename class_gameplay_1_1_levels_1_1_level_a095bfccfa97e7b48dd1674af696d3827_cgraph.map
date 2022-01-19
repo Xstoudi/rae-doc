@@ -1,0 +1,5 @@
+<map id="Gameplay.Levels.Level.OnHitModifier" name="Gameplay.Levels.Level.OnHitModifier">
+<area shape="rect" id="node1" title="Action triggered when a modifier is recolted." alt="" coords="5,39,180,80"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_skin_manager.html#a35aa59c60fe8c34433cbe7269ae9b88b" title="Get the sprite of the modifier." alt="" coords="228,5,459,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a212cb58886f87948ffce3feced376e8b" title="Sets the player modifier effect, only called when the player doesn&#39;t have an active modifier" alt="" coords="232,71,455,112"/>
+</map>

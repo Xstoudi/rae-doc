@@ -1,0 +1,4 @@
+<map id="Gameplay.Collisions.ModifierColliderController.OnMirrorCollected" name="Gameplay.Collisions.ModifierColliderController.OnMirrorCollected">
+<area shape="rect" id="node1" title="Action when the collided modifier is of type ModifierType.Mirror." alt="" coords="280,5,508,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html#a49849e03c18e73108b574ae893830e18" title=" " alt="" coords="5,5,232,47"/>
+</map>

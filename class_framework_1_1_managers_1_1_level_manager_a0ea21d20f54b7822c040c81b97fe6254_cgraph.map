@@ -1,0 +1,4 @@
+<map id="Framework.Managers.LevelManager.Start" name="Framework.Managers.LevelManager.Start">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,185,47"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_save_manager.html#aa6a2ce7caf04e2f52410bd37e0b764ee" title="Save game datas to file system." alt="" coords="233,5,467,47"/>
+</map>

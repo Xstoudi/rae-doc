@@ -1,0 +1,4 @@
+<map id="Gameplay.Levels.Level.RemoveModifierEffect" name="Gameplay.Levels.Level.RemoveModifierEffect">
+<area shape="rect" id="node1" title="Remove the active modifier and its effects." alt="" coords="5,5,209,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#ac9c55df7e99ebcfef9b303ef9eb78453" title="Removes the current modifier effect (does nothing if the player doesn&#39;t have any modifiers)" alt="" coords="257,5,521,47"/>
+</map>

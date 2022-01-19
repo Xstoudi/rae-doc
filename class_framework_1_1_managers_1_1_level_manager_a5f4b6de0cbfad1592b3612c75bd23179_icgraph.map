@@ -1,0 +1,6 @@
+<map id="Framework.Managers.LevelManager.UpdateDatas" name="Framework.Managers.LevelManager.UpdateDatas">
+<area shape="rect" id="node1" title="Update and save the data to the persistant data file." alt="" coords="248,57,428,98"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#afdfd79658a96904e4ac51969e1cd8e2f" title="Action triggered when the player die." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_levels_1_1_level.html#a0ea08bce8eb30e31ade55ea694f6dc69" title="Action triggered when the player reaches the end of the level." alt="" coords="15,57,190,98"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_levels_1_1_level.html#a1beeeb3389e74a65f987b8fbe920adaa" title=" " alt="" coords="9,123,196,149"/>
+</map>

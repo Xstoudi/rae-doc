@@ -1,0 +1,4 @@
+<map id="Gameplay.Collisions.ModifierColliderController.OnSpeedDebuffCollected" name="Gameplay.Collisions.ModifierColliderController.OnSpeedDebuffCollected">
+<area shape="rect" id="node1" title="Action when the collided modifier is of type ModifierType.SpeedDebuff." alt="" coords="280,5,495,61"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html#a49849e03c18e73108b574ae893830e18" title=" " alt="" coords="5,13,232,54"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,391,116,418"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_level_manager.html" title="This class is a manager for the level, it is used for storing the level data when a level is running...." alt="" coords="189,5,369,47"/>
+<area shape="rect" id="node3" href="$class_framework_1_1_managers_1_1_save_manager.html" title="This class is used to manage the saving and the loading of the player&#39;s progression." alt="" coords="164,71,393,98"/>
+<area shape="rect" id="node4" href="$class_framework_1_1_managers_1_1_skin_manager.html" title="This class is a manager for the skin, it regroups each sprites, animations, etc. per skin...." alt="" coords="165,122,392,149"/>
+<area shape="rect" id="node5" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html" title=" " alt="" coords="193,173,365,199"/>
+<area shape="rect" id="node6" href="$class_framework_1_1_utils_1_1_dont_destroy_on_load.html" title="Ensure that the current game object will remains until manually destroyed. Used to keep alive long&#45;te..." alt="" coords="183,224,375,265"/>
+<area shape="rect" id="node7" href="$class_framework_1_1_utils_1_1_ensure_preloaded.html" title="When added to a scene, ensure that the scene contains all preloaded dependencies." alt="" coords="169,290,388,317"/>
+<area shape="rect" id="node8" href="$class_framework_1_1_utils_1_1_load_main_menu.html" title="Load main menu. Mainly used to load the main menu after preload." alt="" coords="175,341,383,367"/>
+<area shape="rect" id="node9" href="$class_gameplay_1_1_actors_1_1_player_controller.html" title="This class is used by the player game object to control it (like physics)" alt="" coords="169,391,388,418"/>
+<area shape="rect" id="node10" href="$class_gameplay_1_1_collisions_1_1_base_collider_controller.html" title="Base class for controlling the comportement a collision occurs between two objects." alt="" coords="191,443,366,484"/>
+<area shape="rect" id="node17" href="$class_gameplay_1_1_levels_1_1_level.html" title="This class is the core of the played level, it retransmit the data to the player and perform action w..." alt="" coords="201,509,356,535"/>
+<area shape="rect" id="node18" href="$class_load_scene_on_press.html" title=" " alt="" coords="209,559,348,586"/>
+<area shape="rect" id="node19" href="$class_parallax_background.html" title=" " alt="" coords="209,610,348,637"/>
+<area shape="rect" id="node20" href="$class_u_i_1_1_button_content_adjust.html" title="Adjust content in a button when clicking on it." alt="" coords="199,661,358,687"/>
+<area shape="rect" id="node21" href="$class_u_i_1_1_main_menu.html" title="Main menu management class." alt="" coords="229,711,328,738"/>
+<area shape="rect" id="node22" href="$class_u_i_1_1_pause_menu.html" title=" " alt="" coords="225,762,332,789"/>
+<area shape="rect" id="node11" href="$class_gameplay_1_1_collisions_1_1_coin_collider_controller.html" title="Class for controlling the comportement of a coin object and the player during their collision." alt="" coords="451,279,622,320"/>
+<area shape="rect" id="node12" href="$class_gameplay_1_1_collisions_1_1_death_area_collider_controller.html" title="Class for controlling the comportement of the death area object and the player during their collision..." alt="" coords="447,344,626,385"/>
+<area shape="rect" id="node13" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html" title="Class for controlling the comportement of a modifier object and the player during their collision." alt="" coords="441,409,632,451"/>
+<area shape="rect" id="node14" href="$class_gameplay_1_1_collisions_1_1_nocive_plateform_collider_controller.html" title="Class for controlling the comportement of a nocive plateform element object and the player during the..." alt="" coords="445,475,628,516"/>
+<area shape="rect" id="node15" href="$class_gameplay_1_1_collisions_1_1_normal_plateform_collider_controller.html" title="Class for controlling the comportement of a normal plateform element object and the player during the..." alt="" coords="443,540,630,581"/>
+<area shape="rect" id="node16" href="$class_gameplay_1_1_collisions_1_1_victory_area_collider_controller.html" title="Class for controlling the comportement of the death area object and the player during their collision..." alt="" coords="443,605,630,647"/>
+</map>

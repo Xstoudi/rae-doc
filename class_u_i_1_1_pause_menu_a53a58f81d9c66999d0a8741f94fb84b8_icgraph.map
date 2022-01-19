@@ -1,0 +1,8 @@
+<map id="UI.PauseMenu.OnPause" name="UI.PauseMenu.OnPause">
+<area shape="rect" id="node1" title="Action when the game is paused" alt="" coords="445,81,611,108"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_pause_menu.html#a026d0f9212c844d7b907728cbd4db5b5" title="Action when the user wants to quit the level" alt="" coords="233,5,385,32"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_pause_menu.html#ab3c1aa7535d4269bdbc869d5744b8d8f" title="Action when the user wants to restart the level" alt="" coords="224,56,395,83"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_pause_menu.html#a84dd1578b640d6dbde4112f3d63e1276" title="Action when the user wants to resume the level" alt="" coords="221,107,397,133"/>
+<area shape="rect" id="node6" href="$class_u_i_1_1_pause_menu.html#a1768d4b5b26c2ae932609c3f212cfd6e" title=" " alt="" coords="233,157,385,184"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_pause_menu.html#a3fb15595a9987d4bf94c6c88bb537e4f" title=" " alt="" coords="5,56,173,83"/>
+</map>

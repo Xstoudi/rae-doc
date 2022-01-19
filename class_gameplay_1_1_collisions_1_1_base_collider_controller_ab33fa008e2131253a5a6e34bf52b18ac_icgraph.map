@@ -1,0 +1,4 @@
+<map id="Gameplay.Collisions.BaseColliderController.GetCollidedTile" name="Gameplay.Collisions.BaseColliderController.GetCollidedTile">
+<area shape="rect" id="node1" title="Get the tile at the position of the coord &#160;(+ the offset )." alt="" coords="264,13,475,54"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_normal_plateform_collider_controller.html#a1ab85d378f081b13ee0abf54b46df8fc" title=" " alt="" coords="5,5,216,61"/>
+</map>

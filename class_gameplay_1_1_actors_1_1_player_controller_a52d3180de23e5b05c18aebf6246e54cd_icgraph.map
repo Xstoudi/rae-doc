@@ -1,0 +1,4 @@
+<map id="Gameplay.Actors.PlayerController.EndLevelUpdate" name="Gameplay.Actors.PlayerController.EndLevelUpdate">
+<area shape="rect" id="node1" title="Called when the player finishes the level" alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a044d2d6132001b25ddb0827071820366" title=" " alt="" coords="5,5,228,47"/>
+</map>

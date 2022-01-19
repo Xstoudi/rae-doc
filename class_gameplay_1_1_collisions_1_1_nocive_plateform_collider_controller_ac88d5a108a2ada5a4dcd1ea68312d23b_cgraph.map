@@ -1,0 +1,4 @@
+<map id="Gameplay.Collisions.NocivePlateformColliderController.FixedUpdate" name="Gameplay.Collisions.NocivePlateformColliderController.FixedUpdate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,216,61"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a260e5621b6544ef69a9c2830941d28a0" title="Return true if the player currently has a shield" alt="" coords="264,13,487,54"/>
+</map>

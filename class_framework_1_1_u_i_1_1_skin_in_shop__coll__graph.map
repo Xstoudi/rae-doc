@@ -1,0 +1,5 @@
+<map id="Framework.UI.SkinInShop" name="Framework.UI.SkinInShop">
+<area shape="rect" id="node1" title=" " alt="" coords="5,171,177,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="31,5,141,32"/>
+<area shape="rect" id="node3" href="$class_framework_1_1_managers_1_1_skin_manager.html" title="This class is a manager for the skin, it regroups each sprites, animations, etc. per skin...." alt="" coords="107,81,334,108"/>
+</map>

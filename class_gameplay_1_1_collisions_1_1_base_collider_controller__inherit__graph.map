@@ -1,0 +1,10 @@
+<map id="Gameplay.Collisions.BaseColliderController" name="Gameplay.Collisions.BaseColliderController">
+<area shape="rect" id="node1" title="Base class for controlling the comportement a collision occurs between two objects." alt="" coords="164,169,339,211"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_collisions_1_1_coin_collider_controller.html" title="Class for controlling the comportement of a coin object and the player during their collision." alt="" coords="397,5,567,47"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_collisions_1_1_death_area_collider_controller.html" title="Class for controlling the comportement of the death area object and the player during their collision..." alt="" coords="393,71,571,112"/>
+<area shape="rect" id="node5" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html" title="Class for controlling the comportement of a modifier object and the player during their collision." alt="" coords="387,136,577,177"/>
+<area shape="rect" id="node6" href="$class_gameplay_1_1_collisions_1_1_nocive_plateform_collider_controller.html" title="Class for controlling the comportement of a nocive plateform element object and the player during the..." alt="" coords="391,201,573,243"/>
+<area shape="rect" id="node7" href="$class_gameplay_1_1_collisions_1_1_normal_plateform_collider_controller.html" title="Class for controlling the comportement of a normal plateform element object and the player during the..." alt="" coords="389,267,575,308"/>
+<area shape="rect" id="node8" href="$class_gameplay_1_1_collisions_1_1_victory_area_collider_controller.html" title="Class for controlling the comportement of the death area object and the player during their collision..." alt="" coords="389,332,575,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,177,116,203"/>
+</map>

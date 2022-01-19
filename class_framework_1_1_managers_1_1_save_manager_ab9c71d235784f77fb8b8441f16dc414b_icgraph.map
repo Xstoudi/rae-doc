@@ -1,0 +1,4 @@
+<map id="Framework.Managers.SaveManager.LoadGameDatas" name="Framework.Managers.SaveManager.LoadGameDatas">
+<area shape="rect" id="node1" title="Load saved game datas from file system." alt="" coords="287,5,520,47"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_save_manager.html#aa68adf9ecf1f3ce5801c4090a2276714" title=" " alt="" coords="5,5,239,47"/>
+</map>

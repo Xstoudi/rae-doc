@@ -1,0 +1,5 @@
+<map id="Gameplay.Actors.PlayerController.EndLevelUpdate" name="Gameplay.Actors.PlayerController.EndLevelUpdate">
+<area shape="rect" id="node1" title="Called when the player finishes the level" alt="" coords="5,5,228,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a50d1ab7694d73b9da08045fe23365346" title="Returns true if the player is on the ground" alt="" coords="276,5,509,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a260e5621b6544ef69a9c2830941d28a0" title="Return true if the player currently has a shield" alt="" coords="557,5,780,47"/>
+</map>

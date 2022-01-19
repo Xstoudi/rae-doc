@@ -1,0 +1,5 @@
+<map id="Gameplay.Collisions.CoinColliderController" name="Gameplay.Collisions.CoinColliderController">
+<area shape="rect" id="node1" title="Class for controlling the comportement of a coin object and the player during their collision." alt="" coords="5,155,176,196"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_base_collider_controller.html" title="Base class for controlling the comportement a collision occurs between two objects." alt="" coords="15,80,166,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="35,5,146,32"/>
+</map>

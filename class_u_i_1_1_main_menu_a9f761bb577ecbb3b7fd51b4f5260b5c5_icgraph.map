@@ -1,0 +1,4 @@
+<map id="UI.MainMenu.SelectPreviousLevel" name="UI.MainMenu.SelectPreviousLevel">
+<area shape="rect" id="node1" title="Select previous available level." alt="" coords="212,5,400,47"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_main_menu.html#ab40fcccc87db4d591672acd58904685a" title=" " alt="" coords="5,13,164,39"/>
+</map>

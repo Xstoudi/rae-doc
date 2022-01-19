@@ -1,0 +1,8 @@
+<map id="Gameplay.Levels.Level.UpdateHudCoins" name="Gameplay.Levels.Level.UpdateHudCoins">
+<area shape="rect" id="node1" title="Update the coins HUD content." alt="" coords="908,64,1107,105"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#aa20e112e1769f3b7e67d69b519aa276e" title="Initialize the objects of the level + update HUD." alt="" coords="240,38,415,64"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_levels_1_1_level.html#a1edabea1d6571656727ced8c7ada4571" title="Action triggered after the die animation ended." alt="" coords="685,34,860,76"/>
+<area shape="rect" id="node5" href="$class_gameplay_1_1_levels_1_1_level.html#a7dfa35e881994e49851251ba993e9e01" title="Action triggered when restarting the level." alt="" coords="463,89,637,130"/>
+<area shape="rect" id="node6" href="$class_gameplay_1_1_levels_1_1_level.html#aae2f6056a525c953e0d8d45e1f60444a" title="Action triggered when a coin is collected." alt="" coords="685,152,860,193"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_levels_1_1_level.html#a1beeeb3389e74a65f987b8fbe920adaa" title=" " alt="" coords="5,38,192,64"/>
+</map>

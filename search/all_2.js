@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['camera_0',['camera',['../class_parallax_background.html#a550f1caadf18f8db8900ab134b948916',1,'ParallaxBackground']]],
+  ['canpaused_1',['CanPaused',['../class_u_i_1_1_pause_menu.html#a487e5de0da851eaec3a9c464f2f4a3f7',1,'UI::PauseMenu']]],
+  ['characteranimator_2',['characterAnimator',['../class_framework_1_1_managers_1_1_skin_manager.html#af6dcc8124cbdbab86853d47acb5cf2db',1,'Framework::Managers::SkinManager']]],
+  ['cliponcollect_3',['ClipOnCollect',['../class_gameplay_1_1_collisions_1_1_coin_collider_controller.html#ad867f64bfc07abd0f8a9902a3068fee9',1,'Gameplay::Collisions::CoinColliderController']]],
+  ['clipondeath_4',['ClipOnDeath',['../class_gameplay_1_1_actors_1_1_player_controller.html#a6411f7e398df64012bc63334dedb434d',1,'Gameplay::Actors::PlayerController']]],
+  ['cliponjump_5',['ClipOnJump',['../class_gameplay_1_1_actors_1_1_player_controller.html#aba85345337b2b16c029634883ef91247',1,'Gameplay::Actors::PlayerController']]],
+  ['cliponlandonground_6',['ClipOnLandOnGround',['../class_gameplay_1_1_actors_1_1_player_controller.html#a36fe8ce561278bcc82ddfcaeca50b935',1,'Gameplay::Actors::PlayerController']]],
+  ['cliponwalk1_7',['ClipOnWalk1',['../class_gameplay_1_1_actors_1_1_player_controller.html#a36140c7ffe0d7191f4ad641bae168eda',1,'Gameplay::Actors::PlayerController']]],
+  ['cliponwalk2_8',['ClipOnWalk2',['../class_gameplay_1_1_actors_1_1_player_controller.html#a4dd684a8d1cd9b4b70cab00e85f81d40',1,'Gameplay::Actors::PlayerController']]],
+  ['coincollider2d_9',['coinCollider2d',['../class_gameplay_1_1_actors_1_1_player_controller.html#af3ca5920a0d2eeef4946a1a6a88cb67a',1,'Gameplay::Actors::PlayerController']]],
+  ['coincollidercontroller_10',['CoinColliderController',['../class_gameplay_1_1_collisions_1_1_coin_collider_controller.html',1,'Gameplay::Collisions']]],
+  ['coincollidercontroller_2ecs_11',['CoinColliderController.cs',['../_coin_collider_controller_8cs.html',1,'']]],
+  ['collectedcoins_12',['CollectedCoins',['../class_framework_1_1_data_1_1_level_data.html#ab76a92debe8de4ebc11227e5f6ce5871',1,'Framework.Data.LevelData.CollectedCoins()'],['../class_gameplay_1_1_levels_1_1_level.html#aeefb19edaab696be7a27b2c50f5ae3ee',1,'Gameplay.Levels.Level.CollectedCoins()']]],
+  ['collider2d_13',['collider2d',['../class_gameplay_1_1_actors_1_1_player_controller.html#a77120798a6da7437b588e0e32c4f705e',1,'Gameplay.Actors.PlayerController.collider2d()'],['../class_gameplay_1_1_collisions_1_1_base_collider_controller.html#a25934d2343115c087afd3c6b4d190c26',1,'Gameplay.Collisions.BaseColliderController.collider2d()']]],
+  ['currentdistance_14',['currentDistance',['../class_gameplay_1_1_levels_1_1_level.html#abc83d9c08e68c6e89838f9d289f95139',1,'Gameplay::Levels::Level']]],
+  ['currentdistance_15',['CurrentDistance',['../class_gameplay_1_1_levels_1_1_level.html#a0ce5e47b869cd05e52e6d76f2e83efeb',1,'Gameplay::Levels::Level']]],
+  ['currentdistancepercent_16',['currentDistancePercent',['../class_gameplay_1_1_levels_1_1_level.html#a710c4195731a6257d5ee665bd19682ff',1,'Gameplay::Levels::Level']]],
+  ['currentdistancepercent_17',['CurrentDistancePercent',['../class_gameplay_1_1_levels_1_1_level.html#abe9baaeda9df86e64efe632886cd48c1',1,'Gameplay::Levels::Level']]],
+  ['currentmodifier_18',['CurrentModifier',['../class_gameplay_1_1_levels_1_1_level.html#a56f23b7f4f939636e1a48be3542fbe42',1,'Gameplay::Levels::Level']]],
+  ['currentmodifiersprite_19',['currentModifierSprite',['../class_gameplay_1_1_levels_1_1_level.html#a9fe6f23dbb32e4d40da0cf6bf9d2a567',1,'Gameplay::Levels::Level']]],
+  ['currentskin_20',['CurrentSkin',['../class_framework_1_1_data_1_1_save_data.html#a7ce524c27ce26f5fb1425c9c8989f6f1',1,'Framework::Data::SaveData']]]
+];

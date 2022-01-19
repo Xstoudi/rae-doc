@@ -1,0 +1,4 @@
+<map id="Gameplay.Actors.PlayerController.OnDie" name="Gameplay.Actors.PlayerController.OnDie">
+<area shape="rect" id="node1" title="Called by the level script when the player dies" alt="" coords="248,5,471,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#afdfd79658a96904e4ac51969e1cd8e2f" title="Action triggered when the player die." alt="" coords="5,13,200,39"/>
+</map>

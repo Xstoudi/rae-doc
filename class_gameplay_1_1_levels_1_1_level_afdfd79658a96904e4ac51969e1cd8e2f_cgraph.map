@@ -1,0 +1,7 @@
+<map id="Gameplay.Levels.Level.OnDie" name="Gameplay.Levels.Level.OnDie">
+<area shape="rect" id="node1" title="Action triggered when the player die." alt="" coords="5,46,200,73"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#afd773a5fe51818eba51838b668ce4ccf" title="Called by the level script when the player dies" alt="" coords="248,5,471,47"/>
+<area shape="rect" id="node4" href="$class_framework_1_1_managers_1_1_level_manager.html#a5f4b6de0cbfad1592b3612c75bd23179" title="Update and save the data to the persistant data file." alt="" coords="269,71,449,112"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a8c0382f3bf854ac9704fdb9b8c01e9fc" title="Async wait the end of the animation" alt="" coords="524,5,747,47"/>
+<area shape="rect" id="node5" href="$class_framework_1_1_managers_1_1_save_manager.html#aa6a2ce7caf04e2f52410bd37e0b764ee" title="Save game datas to file system." alt="" coords="519,71,752,112"/>
+</map>

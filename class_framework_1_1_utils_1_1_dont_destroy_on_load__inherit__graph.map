@@ -1,0 +1,4 @@
+<map id="Framework.Utils.DontDestroyOnLoad" name="Framework.Utils.DontDestroyOnLoad">
+<area shape="rect" id="node1" title="Ensure that the current game object will remains until manually destroyed. Used to keep alive long&#45;te..." alt="" coords="5,80,197,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="46,5,157,32"/>
+</map>

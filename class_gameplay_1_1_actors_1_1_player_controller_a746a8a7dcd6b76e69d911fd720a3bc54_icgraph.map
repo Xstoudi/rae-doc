@@ -1,0 +1,6 @@
+<map id="Gameplay.Actors.PlayerController.RestartAnimation" name="Gameplay.Actors.PlayerController.RestartAnimation">
+<area shape="rect" id="node1" title="Resets the player animation" alt="" coords="685,5,908,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#a7dfa35e881994e49851251ba993e9e01" title="Action triggered when restarting the level." alt="" coords="463,5,637,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_levels_1_1_level.html#aa20e112e1769f3b7e67d69b519aa276e" title="Initialize the objects of the level + update HUD." alt="" coords="240,13,415,39"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_levels_1_1_level.html#a1beeeb3389e74a65f987b8fbe920adaa" title=" " alt="" coords="5,13,192,39"/>
+</map>

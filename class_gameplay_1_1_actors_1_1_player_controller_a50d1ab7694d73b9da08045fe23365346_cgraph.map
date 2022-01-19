@@ -1,0 +1,4 @@
+<map id="Gameplay.Actors.PlayerController.isOnGround" name="Gameplay.Actors.PlayerController.isOnGround">
+<area shape="rect" id="node1" title="Returns true if the player is on the ground" alt="" coords="5,5,239,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a260e5621b6544ef69a9c2830941d28a0" title="Return true if the player currently has a shield" alt="" coords="287,5,509,47"/>
+</map>

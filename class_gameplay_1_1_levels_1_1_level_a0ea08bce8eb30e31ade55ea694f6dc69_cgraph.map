@@ -1,0 +1,7 @@
+<map id="Gameplay.Levels.Level.OnFinish" name="Gameplay.Levels.Level.OnFinish">
+<area shape="rect" id="node1" title="Action triggered when the player reaches the end of the level." alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#af3474cff257e36bf0b01c711e928024e" title="Async wait some times before calling the next step of the finished level action" alt="" coords="252,5,427,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_actors_1_1_player_controller.html#abfbd2ad3cfa37fb771b08002d077efb8" title="Called by the level script when it&#39;s the end of a level" alt="" coords="228,71,451,112"/>
+<area shape="rect" id="node4" href="$class_framework_1_1_managers_1_1_level_manager.html#a5f4b6de0cbfad1592b3612c75bd23179" title="Update and save the data to the persistant data file." alt="" coords="249,136,429,177"/>
+<area shape="rect" id="node5" href="$class_framework_1_1_managers_1_1_save_manager.html#aa6a2ce7caf04e2f52410bd37e0b764ee" title="Save game datas to file system." alt="" coords="499,136,732,177"/>
+</map>

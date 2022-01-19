@@ -1,0 +1,7 @@
+<map id="UI.MainMenu.UpdateProgressBar" name="UI.MainMenu.UpdateProgressBar">
+<area shape="rect" id="node1" title="Update the selected bar according to the selected Level." alt="" coords="719,23,933,50"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_main_menu.html#a50f7b825e00d9deb58342c47dbe45bcc" title="Update the level preview according to the selected Level." alt="" coords="455,23,671,50"/>
+<area shape="rect" id="node3" href="$class_u_i_1_1_main_menu.html#ab40fcccc87db4d591672acd58904685a" title=" " alt="" coords="5,23,164,50"/>
+<area shape="rect" id="node4" href="$class_u_i_1_1_main_menu.html#a9b20635bc387077e72c198ad95346989" title="Select next available level." alt="" coords="212,23,407,50"/>
+<area shape="rect" id="node5" href="$class_u_i_1_1_main_menu.html#a9f761bb577ecbb3b7fd51b4f5260b5c5" title="Select previous available level." alt="" coords="215,75,403,116"/>
+</map>

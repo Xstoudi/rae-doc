@@ -1,0 +1,4 @@
+<map id="Gameplay.Levels.Level" name="Gameplay.Levels.Level">
+<area shape="rect" id="node1" title="This class is the core of the played level, it retransmit the data to the player and perform action w..." alt="" coords="5,80,160,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="27,5,138,32"/>
+</map>

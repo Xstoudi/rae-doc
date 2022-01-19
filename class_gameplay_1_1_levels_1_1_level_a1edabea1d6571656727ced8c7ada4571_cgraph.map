@@ -1,0 +1,7 @@
+<map id="Gameplay.Levels.Level.OnAfterDie" name="Gameplay.Levels.Level.OnAfterDie">
+<area shape="rect" id="node1" title="Action triggered after the die animation ended." alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#aa1a1ee14dac00df7cbd411f2e078e092" title="Remove the active modifier and its effects." alt="" coords="228,5,432,47"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_levels_1_1_level.html#a6c33c44ecf4f79f1e7c83375109314d6" title="Update the attempt HUD content." alt="" coords="231,71,429,112"/>
+<area shape="rect" id="node5" href="$class_gameplay_1_1_levels_1_1_level.html#a24d473e1589e1ea464c59f7502a90919" title="Update the coins HUD content." alt="" coords="231,136,429,177"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_actors_1_1_player_controller.html#ac9c55df7e99ebcfef9b303ef9eb78453" title="Removes the current modifier effect (does nothing if the player doesn&#39;t have any modifiers)" alt="" coords="480,5,744,47"/>
+</map>

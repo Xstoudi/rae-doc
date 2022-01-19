@@ -1,0 +1,4 @@
+<map id="Gameplay.Actors.PlayerController.SetModifierEffect" name="Gameplay.Actors.PlayerController.SetModifierEffect">
+<area shape="rect" id="node1" title="Sets the player modifier effect, only called when the player doesn&#39;t have an active modifier" alt="" coords="228,5,451,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#a095bfccfa97e7b48dd1674af696d3827" title="Action triggered when a modifier is recolted." alt="" coords="5,5,180,47"/>
+</map>

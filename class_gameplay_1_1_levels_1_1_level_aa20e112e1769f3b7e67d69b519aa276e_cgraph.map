@@ -1,0 +1,15 @@
+<map id="Gameplay.Levels.Level.Init" name="Gameplay.Levels.Level.Init">
+<area shape="rect" id="node1" title="Initialize the objects of the level + update HUD." alt="" coords="5,287,180,314"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_skin_manager.html#a6819b95b9c68604c6fad307950a4a916" title="Get the animation of the skin." alt="" coords="228,5,459,47"/>
+<area shape="rect" id="node3" href="$class_framework_1_1_managers_1_1_skin_manager.html#aff79dbc75d78decfee3676b036988823" title="Get the sprite of the &quot;level progression bar&quot; of the skin" alt="" coords="228,71,459,112"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_levels_1_1_level.html#ad33d985fb8c073990980602d1d52914c" title="Load the scene &quot;Main Menu&quot;." alt="" coords="256,136,431,177"/>
+<area shape="rect" id="node5" href="$class_gameplay_1_1_levels_1_1_level.html#a1edabea1d6571656727ced8c7ada4571" title="Action triggered after the die animation ended." alt="" coords="531,343,705,384"/>
+<area shape="rect" id="node8" href="$class_gameplay_1_1_levels_1_1_level.html#a6c33c44ecf4f79f1e7c83375109314d6" title="Update the attempt HUD content." alt="" coords="780,219,979,260"/>
+<area shape="rect" id="node9" href="$class_gameplay_1_1_levels_1_1_level.html#a24d473e1589e1ea464c59f7502a90919" title="Update the coins HUD content." alt="" coords="780,405,979,447"/>
+<area shape="rect" id="node10" href="$class_gameplay_1_1_levels_1_1_level.html#afe3c32025f38a8662c604500a30d2c78" title="Action triggered when the pause menu is opened or closed." alt="" coords="256,511,431,552"/>
+<area shape="rect" id="node11" href="$class_gameplay_1_1_levels_1_1_level.html#a7dfa35e881994e49851251ba993e9e01" title="Action triggered when restarting the level." alt="" coords="256,280,431,321"/>
+<area shape="rect" id="node13" href="$class_gameplay_1_1_levels_1_1_level.html#a19cf4514d8ce49ad612beb226c7b27e4" title="Update the progression HUD content." alt="" coords="244,576,443,617"/>
+<area shape="rect" id="node6" href="$class_gameplay_1_1_levels_1_1_level.html#aa1a1ee14dac00df7cbd411f2e078e092" title="Remove the active modifier and its effects." alt="" coords="777,340,981,381"/>
+<area shape="rect" id="node7" href="$class_gameplay_1_1_actors_1_1_player_controller.html#ac9c55df7e99ebcfef9b303ef9eb78453" title="Removes the current modifier effect (does nothing if the player doesn&#39;t have any modifiers)" alt="" coords="1029,340,1293,381"/>
+<area shape="rect" id="node12" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a746a8a7dcd6b76e69d911fd720a3bc54" title="Resets the player animation" alt="" coords="507,277,729,319"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Framework.Utils.LoadMainMenu" name="Framework.Utils.LoadMainMenu">
+<area shape="rect" id="node1" title="Load main menu. Mainly used to load the main menu after preload." alt="" coords="5,80,213,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="54,5,165,32"/>
+</map>

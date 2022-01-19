@@ -1,0 +1,5 @@
+<map id="Gameplay.Collisions.ModifierColliderController" name="Gameplay.Collisions.ModifierColliderController">
+<area shape="rect" id="node1" title="Class for controlling the comportement of a modifier object and the player during their collision." alt="" coords="5,155,196,196"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_base_collider_controller.html" title="Base class for controlling the comportement a collision occurs between two objects." alt="" coords="25,80,176,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="45,5,156,32"/>
+</map>

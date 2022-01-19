@@ -1,0 +1,4 @@
+<map id="UI.PauseMenu.OnRestart" name="UI.PauseMenu.OnRestart">
+<area shape="rect" id="node1" title="Action when the user wants to restart the level" alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node2" href="$class_u_i_1_1_pause_menu.html#a53a58f81d9c66999d0a8741f94fb84b8" title="Action when the game is paused" alt="" coords="224,5,389,32"/>
+</map>

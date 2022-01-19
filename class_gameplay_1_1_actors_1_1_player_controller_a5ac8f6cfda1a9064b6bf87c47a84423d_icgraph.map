@@ -1,0 +1,5 @@
+<map id="Gameplay.Actors.PlayerController.GetSpeedMultiplier" name="Gameplay.Actors.PlayerController.GetSpeedMultiplier">
+<area shape="rect" id="node1" title="Gets a value that is multiplied to the speed, ex: 2.0 means that the player sould go two times as fas..." alt="" coords="547,5,769,47"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a67f38427074c6f67d460487798c8c914" title="Function called every frame as long as the player should move" alt="" coords="276,5,499,47"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_actors_1_1_player_controller.html#a044d2d6132001b25ddb0827071820366" title=" " alt="" coords="5,5,228,47"/>
+</map>

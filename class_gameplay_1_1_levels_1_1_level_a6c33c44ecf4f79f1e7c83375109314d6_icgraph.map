@@ -1,0 +1,7 @@
+<map id="Gameplay.Levels.Level.UpdateHudAttempt" name="Gameplay.Levels.Level.UpdateHudAttempt">
+<area shape="rect" id="node1" title="Update the attempt HUD content." alt="" coords="908,25,1107,67"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_levels_1_1_level.html#aa20e112e1769f3b7e67d69b519aa276e" title="Initialize the objects of the level + update HUD." alt="" coords="240,29,415,55"/>
+<area shape="rect" id="node4" href="$class_gameplay_1_1_levels_1_1_level.html#a1edabea1d6571656727ced8c7ada4571" title="Action triggered after the die animation ended." alt="" coords="685,25,860,67"/>
+<area shape="rect" id="node5" href="$class_gameplay_1_1_levels_1_1_level.html#a7dfa35e881994e49851251ba993e9e01" title="Action triggered when restarting the level." alt="" coords="463,80,637,121"/>
+<area shape="rect" id="node3" href="$class_gameplay_1_1_levels_1_1_level.html#a1beeeb3389e74a65f987b8fbe920adaa" title=" " alt="" coords="5,29,192,55"/>
+</map>

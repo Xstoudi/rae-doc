@@ -1,0 +1,5 @@
+<map id="Gameplay.Collisions.NocivePlateformColliderController" name="Gameplay.Collisions.NocivePlateformColliderController">
+<area shape="rect" id="node1" title="Class for controlling the comportement of a nocive plateform element object and the player during the..." alt="" coords="5,155,188,196"/>
+<area shape="rect" id="node2" href="$class_gameplay_1_1_collisions_1_1_base_collider_controller.html" title="Base class for controlling the comportement a collision occurs between two objects." alt="" coords="21,80,172,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="41,5,152,32"/>
+</map>
