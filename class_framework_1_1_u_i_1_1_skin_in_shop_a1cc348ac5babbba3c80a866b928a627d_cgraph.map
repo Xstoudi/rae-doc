@@ -1,4 +1,4 @@
 <map id="Framework.UI.SkinInShop.Awake" name="Framework.UI.SkinInShop.Awake">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,181,47"/>
-<area shape="rect" id="node2" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#ac8044b7d051c400cd20c6235feb75170" title=" " alt="" coords="229,5,405,47"/>
+<area shape="rect" id="node1" title="Is called when the script instance is being loaded. Determine if the skin is unlocked and instanciate..." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#ac8044b7d051c400cd20c6235feb75170" title="Get the total of coins we can spend on the shop. The value is all the collected coins minus le coins ..." alt="" coords="229,5,405,47"/>
 </map>

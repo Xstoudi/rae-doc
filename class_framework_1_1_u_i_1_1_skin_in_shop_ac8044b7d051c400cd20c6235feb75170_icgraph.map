@@ -1,5 +1,5 @@
 <map id="Framework.UI.SkinInShop.GetTotalCoinsToSpend" name="Framework.UI.SkinInShop.GetTotalCoinsToSpend">
-<area shape="rect" id="node1" title=" " alt="" coords="229,39,405,80"/>
-<area shape="rect" id="node2" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a1cc348ac5babbba3c80a866b928a627d" title=" " alt="" coords="5,5,181,47"/>
-<area shape="rect" id="node3" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" title=" " alt="" coords="5,71,181,112"/>
+<area shape="rect" id="node1" title="Get the total of coins we can spend on the shop. The value is all the collected coins minus le coins ..." alt="" coords="229,39,405,80"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a1cc348ac5babbba3c80a866b928a627d" title="Is called when the script instance is being loaded. Determine if the skin is unlocked and instanciate..." alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node3" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" title="Is called when we pressed on a skin&#39;s button. Equip the skin or buy it, regarding the money we have a..." alt="" coords="5,71,181,112"/>
 </map>

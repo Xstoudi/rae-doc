@@ -1,7 +1,7 @@
 <map id="Framework.Managers.SaveManager.SaveGameDatas" name="Framework.Managers.SaveManager.SaveGameDatas">
 <area shape="rect" id="node1" title="Save game datas to file system." alt="" coords="568,104,801,145"/>
 <area shape="rect" id="node2" href="$class_framework_1_1_managers_1_1_save_manager.html#ab9c71d235784f77fb8b8441f16dc414b" title="Load saved game datas from file system." alt="" coords="287,5,520,47"/>
-<area shape="rect" id="node4" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" title=" " alt="" coords="315,71,491,112"/>
+<area shape="rect" id="node4" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" title="Is called when we pressed on a skin&#39;s button. Equip the skin or buy it, regarding the money we have a..." alt="" coords="315,71,491,112"/>
 <area shape="rect" id="node5" href="$class_framework_1_1_managers_1_1_level_manager.html#a0ea21d20f54b7822c040c81b97fe6254" title=" " alt="" coords="313,136,493,177"/>
 <area shape="rect" id="node6" href="$class_framework_1_1_managers_1_1_level_manager.html#a5f4b6de0cbfad1592b3612c75bd23179" title="Update and save the data to the persistant data file." alt="" coords="313,201,493,243"/>
 <area shape="rect" id="node3" href="$class_framework_1_1_managers_1_1_save_manager.html#aa68adf9ecf1f3ce5801c4090a2276714" title=" " alt="" coords="5,5,239,47"/>

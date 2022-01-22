@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Equip a skin.">
 <polygon fill="#bfbfbf" stroke="black" points="168,-0.5 168,-30.5 300,-30.5 300,-0.5 168,-0.5"/>
 <text text-anchor="start" x="176" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">Framework.UI.SkinInShop.</text>
 <text text-anchor="middle" x="234" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">Equip</text>
@@ -22,7 +22,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" target="_top" xlink:title="Is called when we pressed on a skin&#39;s button. Equip the skin or buy it, regarding the money we have a...">
 <polygon fill="white" stroke="black" points="0,-0.5 0,-30.5 132,-30.5 132,-0.5 0,-0.5"/>
 <text text-anchor="start" x="8" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">Framework.UI.SkinInShop.</text>
 <text text-anchor="middle" x="66" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">OnButtonPressed</text>

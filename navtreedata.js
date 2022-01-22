@@ -51,7 +51,7 @@ var NAVTREEINDEX =
 [
 "_animated_tile_8cs.html",
 "class_gameplay_1_1_actors_1_1_player_controller.html#a5292ccfcc694c50c9b3afa4e8b93f920",
-"class_u_i_1_1_animated_tile.html#a9878c0967c3f840ad0793f512211609f"
+"class_u_i_1_1_button_content_adjust.html#a387726eb50de1a45aa6789d99f86e4b9"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

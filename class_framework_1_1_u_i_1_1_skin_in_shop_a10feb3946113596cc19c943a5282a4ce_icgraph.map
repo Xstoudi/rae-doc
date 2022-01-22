@@ -1,4 +1,4 @@
 <map id="Framework.UI.SkinInShop.Equip" name="Framework.UI.SkinInShop.Equip">
-<area shape="rect" id="node1" title=" " alt="" coords="229,5,405,47"/>
-<area shape="rect" id="node2" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" title=" " alt="" coords="5,5,181,47"/>
+<area shape="rect" id="node1" title="Equip a skin." alt="" coords="229,5,405,47"/>
+<area shape="rect" id="node2" href="$class_framework_1_1_u_i_1_1_skin_in_shop.html#a69fc76d6bf84237ae2f69bf9340df54d" title="Is called when we pressed on a skin&#39;s button. Equip the skin or buy it, regarding the money we have a..." alt="" coords="5,5,181,47"/>
 </map>

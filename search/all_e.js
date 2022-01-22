@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['parallaxbackground_0',['ParallaxBackground',['../class_parallax_background.html',1,'']]],
+  ['parallaxbackground_0',['ParallaxBackground',['../class_u_i_1_1_parallax_background.html',1,'UI']]],
   ['parallaxbackground_2ecs_1',['ParallaxBackground.cs',['../_parallax_background_8cs.html',1,'']]],
-  ['parallaxeffect_2',['parallaxEffect',['../class_parallax_background.html#a44991baefca08168fbde1cc8d45d3b31',1,'ParallaxBackground']]],
+  ['parallaxeffect_2',['parallaxEffect',['../class_u_i_1_1_parallax_background.html#a90558d02d57c8167d34f47e3d7ce761f',1,'UI::ParallaxBackground']]],
   ['pauseevent_3',['PauseEvent',['../class_u_i_1_1_pause_menu.html#a3645ad6107a82d070b68aa4f5637e753',1,'UI::PauseMenu']]],
   ['pausemenu_4',['pauseMenu',['../class_gameplay_1_1_levels_1_1_level.html#ac20de75dc08d028d76582944de54da7d',1,'Gameplay::Levels::Level']]],
   ['pausemenu_5',['PauseMenu',['../class_u_i_1_1_pause_menu.html',1,'UI']]],

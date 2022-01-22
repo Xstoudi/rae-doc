@@ -82,7 +82,7 @@
 <!-- Node7 -->
 <g id="node7" class="node">
 <title>Node7</title>
-<g id="a_node7"><a xlink:href="class_u_i_1_1_pause_menu.html" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="class_u_i_1_1_pause_menu.html" target="_top" xlink:title="Class for the In Game pause menu">
 <polygon fill="white" stroke="black" points="185,-202.5 185,-221.5 265,-221.5 265,-202.5 185,-202.5"/>
 <text text-anchor="middle" x="225" y="-209.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.PauseMenu</text>
 </a>

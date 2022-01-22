@@ -174,67 +174,67 @@
 <!-- Node17 -->
 <g id="node18" class="node">
 <title>Node17</title>
-<g id="a_node18"><a xlink:href="class_load_scene_on_press.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="153,-152.5 153,-171.5 257,-171.5 257,-152.5 153,-152.5"/>
-<text text-anchor="middle" x="205" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">LoadSceneOnPress</text>
+<g id="a_node18"><a xlink:href="class_u_i_1_1_button_content_adjust.html" target="_top" xlink:title="Adjust content in a button when clicking on it.">
+<polygon fill="white" stroke="black" points="145.5,-152.5 145.5,-171.5 264.5,-171.5 264.5,-152.5 145.5,-152.5"/>
+<text text-anchor="middle" x="205" y="-159.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.ButtonContentAdjust</text>
 </a>
 </g>
 </g>
 <!-- Node0&#45;&gt;Node17 -->
 <g id="edge17" class="edge">
 <title>Node0&#45;&gt;Node17</title>
-<path fill="none" stroke="midnightblue" d="M50.8,-268.9C62.4,-244.55 85.85,-202.96 119,-181 128.96,-174.4 140.87,-170.07 152.57,-167.23"/>
+<path fill="none" stroke="midnightblue" d="M50.8,-268.9C62.4,-244.55 85.85,-202.96 119,-181 126.94,-175.74 136.12,-171.92 145.45,-169.14"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="47.53,-267.63 46.55,-278.18 53.9,-270.54 47.53,-267.63"/>
 </g>
 <!-- Node18 -->
 <g id="node19" class="node">
 <title>Node18</title>
-<g id="a_node19"><a xlink:href="class_parallax_background.html" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="153,-114.5 153,-133.5 257,-133.5 257,-114.5 153,-114.5"/>
-<text text-anchor="middle" x="205" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">ParallaxBackground</text>
+<g id="a_node19"><a xlink:href="class_u_i_1_1_load_scene_on_press.html" target="_top" xlink:title="Load given scene on button press.">
+<polygon fill="white" stroke="black" points="147,-114.5 147,-133.5 263,-133.5 263,-114.5 147,-114.5"/>
+<text text-anchor="middle" x="205" y="-121.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.LoadSceneOnPress</text>
 </a>
 </g>
 </g>
 <!-- Node0&#45;&gt;Node18 -->
 <g id="edge18" class="edge">
 <title>Node0&#45;&gt;Node18</title>
-<path fill="none" stroke="midnightblue" d="M47.09,-268.65C55.6,-237.17 76.93,-175.16 119,-143 128.73,-135.56 140.81,-130.93 152.79,-128.07"/>
+<path fill="none" stroke="midnightblue" d="M47.09,-268.65C55.6,-237.17 76.93,-175.16 119,-143 127.05,-136.85 136.71,-132.61 146.58,-129.72"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="43.68,-267.86 44.6,-278.41 50.46,-269.59 43.68,-267.86"/>
 </g>
 <!-- Node19 -->
 <g id="node20" class="node">
 <title>Node19</title>
-<g id="a_node20"><a xlink:href="class_u_i_1_1_button_content_adjust.html" target="_top" xlink:title="Adjust content in a button when clicking on it.">
-<polygon fill="white" stroke="black" points="145.5,-76.5 145.5,-95.5 264.5,-95.5 264.5,-76.5 145.5,-76.5"/>
-<text text-anchor="middle" x="205" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.ButtonContentAdjust</text>
+<g id="a_node20"><a xlink:href="class_u_i_1_1_main_menu.html" target="_top" xlink:title="Main menu management class.">
+<polygon fill="white" stroke="black" points="168,-76.5 168,-95.5 242,-95.5 242,-76.5 168,-76.5"/>
+<text text-anchor="middle" x="205" y="-83.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.MainMenu</text>
 </a>
 </g>
 </g>
 <!-- Node0&#45;&gt;Node19 -->
 <g id="edge19" class="edge">
 <title>Node0&#45;&gt;Node19</title>
-<path fill="none" stroke="midnightblue" d="M44.86,-267.98C50.44,-230.05 68.05,-147.69 119,-105 126.53,-98.69 135.72,-94.36 145.24,-91.41"/>
+<path fill="none" stroke="midnightblue" d="M44.86,-267.98C50.44,-230.05 68.05,-147.69 119,-105 132.45,-93.74 151.16,-88.78 167.6,-86.73"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="41.35,-267.86 43.49,-278.23 48.28,-268.78 41.35,-267.86"/>
 </g>
 <!-- Node20 -->
 <g id="node21" class="node">
 <title>Node20</title>
-<g id="a_node21"><a xlink:href="class_u_i_1_1_main_menu.html" target="_top" xlink:title="Main menu management class.">
-<polygon fill="white" stroke="black" points="168,-38.5 168,-57.5 242,-57.5 242,-38.5 168,-38.5"/>
-<text text-anchor="middle" x="205" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.MainMenu</text>
+<g id="a_node21"><a xlink:href="class_u_i_1_1_parallax_background.html" target="_top" xlink:title="This class purpose is to manage the parallax effect.">
+<polygon fill="white" stroke="black" points="147,-38.5 147,-57.5 263,-57.5 263,-38.5 147,-38.5"/>
+<text text-anchor="middle" x="205" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.ParallaxBackground</text>
 </a>
 </g>
 </g>
 <!-- Node0&#45;&gt;Node20 -->
 <g id="edge20" class="edge">
 <title>Node0&#45;&gt;Node20</title>
-<path fill="none" stroke="midnightblue" d="M43.22,-268.14C45.91,-224.71 58.66,-120.86 119,-67 132.2,-55.22 151.09,-50.24 167.71,-48.3"/>
+<path fill="none" stroke="midnightblue" d="M43.22,-268.14C45.91,-224.71 58.66,-120.86 119,-67 126.78,-60.05 136.55,-55.47 146.66,-52.48"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="39.71,-268.1 42.71,-278.26 46.71,-268.45 39.71,-268.1"/>
 </g>
 <!-- Node21 -->
 <g id="node22" class="node">
 <title>Node21</title>
-<g id="a_node22"><a xlink:href="class_u_i_1_1_pause_menu.html" target="_top" xlink:title=" ">
+<g id="a_node22"><a xlink:href="class_u_i_1_1_pause_menu.html" target="_top" xlink:title="Class for the In Game pause menu">
 <polygon fill="white" stroke="black" points="165,-0.5 165,-19.5 245,-19.5 245,-0.5 165,-0.5"/>
 <text text-anchor="middle" x="205" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">UI.PauseMenu</text>
 </a>

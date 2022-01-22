@@ -10,11 +10,11 @@
 <area shape="rect" id="node9" href="$class_gameplay_1_1_actors_1_1_player_controller.html" title="This class is used by the player game object to control it (like physics)" alt="" coords="169,391,388,418"/>
 <area shape="rect" id="node10" href="$class_gameplay_1_1_collisions_1_1_base_collider_controller.html" title="Base class for controlling the comportement a collision occurs between two objects." alt="" coords="191,443,366,484"/>
 <area shape="rect" id="node17" href="$class_gameplay_1_1_levels_1_1_level.html" title="This class is the core of the played level, it retransmit the data to the player and perform action w..." alt="" coords="201,509,356,535"/>
-<area shape="rect" id="node18" href="$class_load_scene_on_press.html" title=" " alt="" coords="209,559,348,586"/>
-<area shape="rect" id="node19" href="$class_parallax_background.html" title=" " alt="" coords="209,610,348,637"/>
-<area shape="rect" id="node20" href="$class_u_i_1_1_button_content_adjust.html" title="Adjust content in a button when clicking on it." alt="" coords="199,661,358,687"/>
-<area shape="rect" id="node21" href="$class_u_i_1_1_main_menu.html" title="Main menu management class." alt="" coords="229,711,328,738"/>
-<area shape="rect" id="node22" href="$class_u_i_1_1_pause_menu.html" title=" " alt="" coords="225,762,332,789"/>
+<area shape="rect" id="node18" href="$class_u_i_1_1_button_content_adjust.html" title="Adjust content in a button when clicking on it." alt="" coords="199,559,358,586"/>
+<area shape="rect" id="node19" href="$class_u_i_1_1_load_scene_on_press.html" title="Load given scene on button press." alt="" coords="201,610,356,637"/>
+<area shape="rect" id="node20" href="$class_u_i_1_1_main_menu.html" title="Main menu management class." alt="" coords="229,661,328,687"/>
+<area shape="rect" id="node21" href="$class_u_i_1_1_parallax_background.html" title="This class purpose is to manage the parallax effect." alt="" coords="201,711,356,738"/>
+<area shape="rect" id="node22" href="$class_u_i_1_1_pause_menu.html" title="Class for the In Game pause menu" alt="" coords="225,762,332,789"/>
 <area shape="rect" id="node11" href="$class_gameplay_1_1_collisions_1_1_coin_collider_controller.html" title="Class for controlling the comportement of a coin object and the player during their collision." alt="" coords="451,279,622,320"/>
 <area shape="rect" id="node12" href="$class_gameplay_1_1_collisions_1_1_death_area_collider_controller.html" title="Class for controlling the comportement of the death area object and the player during their collision..." alt="" coords="447,344,626,385"/>
 <area shape="rect" id="node13" href="$class_gameplay_1_1_collisions_1_1_modifier_collider_controller.html" title="Class for controlling the comportement of a modifier object and the player during their collision." alt="" coords="441,409,632,451"/>

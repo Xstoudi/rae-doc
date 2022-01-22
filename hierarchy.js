@@ -20,10 +20,10 @@ var hierarchy =
         [ "Gameplay.Collisions.VictoryAreaColliderController", "class_gameplay_1_1_collisions_1_1_victory_area_collider_controller.html", null ]
       ] ],
       [ "Gameplay.Levels.Level", "class_gameplay_1_1_levels_1_1_level.html", null ],
-      [ "LoadSceneOnPress", "class_load_scene_on_press.html", null ],
-      [ "ParallaxBackground", "class_parallax_background.html", null ],
       [ "UI.ButtonContentAdjust", "class_u_i_1_1_button_content_adjust.html", null ],
+      [ "UI.LoadSceneOnPress", "class_u_i_1_1_load_scene_on_press.html", null ],
       [ "UI.MainMenu", "class_u_i_1_1_main_menu.html", null ],
+      [ "UI.ParallaxBackground", "class_u_i_1_1_parallax_background.html", null ],
       [ "UI.PauseMenu", "class_u_i_1_1_pause_menu.html", null ]
     ] ],
     [ "Framework.Utils.Point", "struct_framework_1_1_utils_1_1_point.html", null ],
